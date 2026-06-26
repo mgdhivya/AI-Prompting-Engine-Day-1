@@ -11,3 +11,7 @@ My personal notes, examples and reflections as I learn how to write effective pr
 - Day 2: 4 Key Elements of a Good Prompt (RTCF) *(coming soon)*
 - Day 3: 5 Types of Prompts *(coming soon)*
 
+## Follow my journey
+- LinkedIn:https://www.linkedin.com/feed
+- GitHub: github.com/mgdhivya/Salesforce-Admin-Learnings
+
